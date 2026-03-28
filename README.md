@@ -1,16 +1,8 @@
 <h1 align="center">Hi , I'm Nicolas Olivera  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ## ⚡ About me 
-I am a systems engineering student, currently in the third year of my degree. I am improving my knowledge in programming languages and exploring both front-end and back-end development.  
+I am a systems engineering student, currently in the fifth year of my degree. I am improving my knowledge in programming languages and exploring both front-end and back-end development.  
 My interest in technology is what drives me to learn and apply new skills to develop innovative and efficient solutions. I am looking for opportunities that allow me to grow professionally and contribute to projects that generate a positive impact.
-
-
-- 🌱 I’m currently learning ...
-  - Flask
-  - React js
-- 🤝 I’m looking forward to collaborate on open source projects.
-- 🖥️ Outside tech, I like soccer, running in nature, listening to music and hanging out with friends. ⚽🌲🎶🍻
-- 📩 Reach out to me at : 
 
 
 ### Languages and Tools 🛠 
